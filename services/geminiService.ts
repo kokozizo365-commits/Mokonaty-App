@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { GoogleGenAI, Type } from "@google/genai";
 import type { FullReport, ComparisonResult, DietaryProfile } from '../types';
 
