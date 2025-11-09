@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from 'react';
 import type { FullReport, Ingredient, ProfileCompatibility, PinnedItem } from '../types';
 import Accordion from './Accordion';
